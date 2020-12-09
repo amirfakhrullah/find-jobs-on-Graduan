@@ -12,4 +12,6 @@ $ venv\Scripts\activate
 
 $ pip install requirements.txt
 
+$ pip install html5lib
+
 $ python graduan_jobs.py
