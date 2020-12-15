@@ -6,6 +6,7 @@
 * Python
 * Selenium
 * BeautifulSoup4
+* chromedriver
 * pprint
 
 ## Setup
